@@ -50,9 +50,12 @@ A lab to observe network traffic protocols to and from Azure VMs using Wireshark
 ![image](https://github.com/ahmed86-star/Azure-Wireshark-Network-Lab/assets/113064932/c96b6fe4-92ba-416d-922c-629d1a8eca78)
 
 ### Step 5: Experiment with Network Security Groups
-1. **Configure NSGs**:   ![image](https://github.com/ahmed86-star/Azure-Wireshark-Network-Lab/assets/113064932/e989eaec-8702-4648-9d45-e6ac7427d137)
+1. **Configure NSGs**:
+   ![image](https://github.com/ahmed86-star/Azure-Wireshark-Network-Lab/assets/113064932/e989eaec-8702-4648-9d45-e6ac7427d137)
     - Set up rules to allow or deny specific traffic.
-2. **Test Traffic**:
+      ![image](https://github.com/ahmed86-star/Azure-Wireshark-Network-Lab/assets/113064932/15f4ad35-017c-473c-b4f4-91d0897b9dcb)
+
+3. **Test Traffic**:
     - Test connectivity with different NSG rules.
 
 
